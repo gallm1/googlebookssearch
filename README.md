@@ -24,7 +24,7 @@ Search Results
 
 Saved Books
 
-![image](https://github.com/gallm1/googlebookssearch/blob/main/assets/search_results.png)
+![image](https://github.com/gallm1/googlebookssearch/blob/main/assets/saved_books.png)
 
 
 ## Credits
